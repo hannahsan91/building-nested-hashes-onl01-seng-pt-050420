@@ -8,10 +8,10 @@ def second_challenge
       :hero_friends => [{"Benvolio"}, {"Mercutio"}]
     :capulet => {
       #your key/value pairs here!
-      :patriarch => {},
-      :matriarch => {},
-      :heroine => {},
-      :heroine_friends => []
+      :patriarch => {"Lord Capulet"},
+      :matriarch => {"Lady Capulet"},
+      :heroine => {"Juliet"},
+      :heroine_friends => [{"Benvolio"}, {"Mercutio"}]
       }
     }
 
